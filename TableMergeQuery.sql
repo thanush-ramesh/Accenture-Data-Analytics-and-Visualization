@@ -15,4 +15,4 @@ JOIN SocialBuzz.dbo.ReactionTypes rt
 ON
 r.ReactionType= rt.ReactionType;
 
-SELECT TOP 10 * FROM SocialBuzz..contentcategory
+SELECT TOP 5 * FROM SocialBuzz..contentcategory
