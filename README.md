@@ -80,7 +80,8 @@ Cleaned Data set:
 So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/thanush-ramesh/Accenture-Data-Analytics-and-Visualization/blob/main/Cleaned-DataSet.xlsx)
 
 ## Task - 3 : Data Visualization & Storytelling
-Creating a [Powerpoint Presentation](https://github.com/thanush-ramesh/Accenture-Data-Analytics-and-Visualization/blob/main/SocialBuzzPresentation.pdf) for the client (Social Buzz) to report on their content performance as well as making a data visualization to display the insights.
+Creating a [Powerpoint Presentation](https://github.com/thanush-ramesh/Accenture-Data-Analytics-and-Visualization/blob/main/SocialBuzzPresentation.pdf) for the client (Social Buzz) to report on their content performance.
+Also, making the [Tableau Dashboard for Visualization](https://public.tableau.com/app/profile/thanush.ramesh3122/viz/Social-Buzz-DashBoard/Dashboard1?publish=yes) for story telling and present data insights.
 
 ## Task - 4 : Client Presentation
 Present your powerpoint presentation to the client and deliver the insights of your analysis
