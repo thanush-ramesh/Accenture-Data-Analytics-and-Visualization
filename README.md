@@ -1,5 +1,5 @@
 # Data Analytics and Visualization Project
-This repository contains my submission for the Data Analytics & Visualization Program offered by Accenture North America, which is designed to bring data to life using analytics & Visualization.
+This repository contains my submission for the Data Analytics & Visualization Project, which is designed to bring data to life using analytics & Visualization.
 
 **The program is divided into Four tasks :**
 1. Project Understanding
