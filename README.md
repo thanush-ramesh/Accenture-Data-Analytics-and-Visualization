@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-and-Visualization
+# Data Analytics and Visualization Project
 This repository contains my submission for the Data Analytics & Visualization Program offered by Accenture North America, which is designed to bring data to life using analytics & Visualization.
 
 **The program is divided into Four tasks :**
@@ -25,12 +25,12 @@ This repository contains my submission for the Data Analytics & Visualization Pr
 - Looking for an experienced had to manage their scale as they do not have the resources
 - Learn Big Data practices from a Large Corporation
 
-### Task for Accenture :
+### Task given to us :
 - An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the Top 5 categories with the largest aggregate popularity
 
-### Accenture Project Team :
+###  Project Team :
 ![Alt text](https://github.com/thanush-ramesh/Accenture-Data-Analytics-and-Visualization/blob/main/Accenture%20Project%20Team.png)
 
 ### Task for Data Analyst :
