@@ -31,7 +31,7 @@ This repository contains my submission for the Data Analytics & Visualization Pr
 - An analysis of their content categories that highlights the Top 5 categories with the largest aggregate popularity
 
 ###  Project Team :
-![Alt text](https://github.com/thanush-ramesh/Accenture-Data-Analytics-and-Visualization/blob/main/Accenture%20Project%20Team.png)
+![Alt text](https://github.com/thanush-ramesh/Data-Analytics-and-Visualization-Project/blob/main/Project%20Team.png)
 
 ### Task for Data Analyst :
 - An analysis of their content categories showing the top 5 categories with the largest popularity.
