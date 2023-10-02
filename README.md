@@ -1,4 +1,4 @@
-# Data Analytics and Visualization Project
+# Social Media Content Data Analytics and Visualization Project
 This repository contains my submission for the Data Analytics & Visualization Project, which is designed to bring data to life using analytics & Visualization.
 
 **The program is divided into Four tasks :**
